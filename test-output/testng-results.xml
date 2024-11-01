@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-01T11:55:21 IST" name="Suite" finished-at="2024-11-01T11:56:01 IST" duration-ms="39571">
+    <groups>
+    </groups>
+    <test started-at="2024-11-01T11:55:21 IST" name="Test" finished-at="2024-11-01T11:56:01 IST" duration-ms="39571">
+      <class name="TestCase.TC001_adc">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCase.TC001_adc@260e86a1]" started-at="2024-11-01T11:55:22 IST" name="setup" finished-at="2024-11-01T11:55:56 IST" duration-ms="34153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ad_card()[pri:0, instance:TestCase.TC001_adc@260e86a1]" started-at="2024-11-01T11:55:56 IST" name="ad_card" finished-at="2024-11-01T11:55:59 IST" duration-ms="3037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ad_card -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCase.TC001_adc@260e86a1]" started-at="2024-11-01T11:55:59 IST" name="close" finished-at="2024-11-01T11:56:01 IST" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCase.TC001_adc -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
